@@ -41,7 +41,7 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 |               Databases                |                                          [What's SQL](https://www.youtube.com/watch?v=zsjvFFKOm3c "What's SQL") / [MySQL (PlanetScale)](https://planetscale.com/ 'MySQL (PlanetScale)') or / [PostgreSQL](https://www.youtube.com/watch?v=eMIxuk0nOkU 'PostgreSQL') or/and / [MongoDB](https://university.mongodb.com/ 'MongoDB') |
 |  ORM (Prisma, **literally the best**)  |                                                                                                                                                                                                       [docs](https://www.prisma.io/ 'docs') / [prisma-nextjs](https://www.youtube.com/watch?v=0mg2zD_DaOU&t=908s 'prisma-nextjs') |
 
-> - I personally just learnt the basics of React &rarr; functional components, hooks, etc; and quickly moved onto **Next.js** ❤ (you'll see that routing, SSR and DX (developer experience) is far better here)
+> I personally just learnt the basics of React &rarr; functional components, hooks, etc; and quickly moved onto **Next.js** ❤ (you'll see that routing, SSR and DX (developer experience) is far better here)
 
 ### Next Steps
 

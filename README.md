@@ -1,12 +1,8 @@
 # **Become a 10X Developer in 3 months**
 
-Editor note: ** To better see and understand this file/guide, open it in a markdown (MD) visualizer **
-
----
-
 This guide is intended for beginners and primarily focused on Frontend _(see frontend/backend better explanation and differences [here](https://www.youtube.com/watch?v=PRSyHTajxPk 'here'))_
 
-&rarr; ** Important side-notes **
+&rarr; **Important side-notes**
 
 - There&rsquo;s no need to pay for courses
 - You don't need to watch every videos until the end
@@ -17,7 +13,7 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 - **_Please read the documentation websites for any technology or framework you choose to learn, there shall be most of the important features and quirks, if not ..._**
 - Search if someone had a similar problem to yours, **StackOverflow recommended**
 
-&rarr; ** Requirements ** - Install Node - Install Visual Studio Code, I may suggest some useful extensions
+&rarr; **Requirements** - Install Node - Install Visual Studio Code, I may suggest some useful extensions
 
 ## Visualized Roadmap (non-mandatory, just a reference)
 

@@ -32,8 +32,9 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 - nicoalbanese's kirimase scaffolder https://github.com/nicoalbanese/kirimase/
 - create-t3-app scaffolder https://create.t3.gg/ - **RECOMMENDED FOR BEGINNERS**
 - TurboRepo, TurboPack
-- Check my own projects (maybe not the best but I think it's decent) 
-	- [wait4it](https://github.com/statusunknown418/wait4it) - Best one now
+- Check my own projects (maybe not the best but I think it's decent)
+	- [thearq](https://github.com/statusunknown418/thearq) - B2B time tracker, data visualiser thingy
+	- [wait4it](https://github.com/statusunknown418/wait4it) - primarily look at the code bc Planetscale took down the DB and its not working anymore lol
 
 
 ## Foundations

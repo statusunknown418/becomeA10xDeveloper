@@ -60,6 +60,7 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 |  ~~ORM (Prisma, **literally the best**)~~ The hell was I thinking  |                                                                                                                                                                                                       ~~[docs](https://www.prisma.io/ 'docs') / [prisma-nextjs](https://www.youtube.com/watch?v=0mg2zD_DaOU&t=908s 'prisma-nextjs')~~ |
 |Drizzle ORM &rarr; **THE GOAT**| https://orm.drizzle.team |
 |DB -> Planetscale| I love this product DBaaS https://planetscale.com - Vitess backed, Sharded, Edge - MySQL database |
+| DB - SQLite -> Turso | This is so much better than plantscale (IT'S FREE!!!!!)|
 
 > 1. Another note here: You should also be familiar with the Edge Runtime featured in nextjs https://nextjs.org/docs/app/building-your-application/rendering/edge-and-nodejs-runtimes because when next-auth supports it, it will become the new standard (in my opinion at least)
 > 2. I recommend authentication & authorization with next-auth, it's easy, reliable and fairly quick, however Lucia Auth is another option, mostly suited for more advanced devs, it however is Edge compatible which means &rarr; **FUCKING FASTER**, I leave this on you personal decision

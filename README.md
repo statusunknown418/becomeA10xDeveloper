@@ -13,6 +13,7 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 - If you don't know some technology or piece of code explained on the videos, look it up on Google & Any AI stuff that can help
 - **_Please read the documentation websites for any technology or framework you choose to learn, there WILL be most of the important features and quirks, if not ..._**
 - Search if someone had a similar problem to yours, **StackOverflow recommended**, ChatGPT - (Meh), Medium blogs
+- most importantly **LEARN TO WORK ON YOUR OWN**
 
 &rarr; **Requirements** - Install Node - Install Visual Studio Code, I may suggest some useful extensions
 
@@ -34,6 +35,7 @@ This guide is intended for beginners and primarily focused on Frontend _(see fro
 - TurboRepo, TurboPack
 - Check my own projects (maybe not the best but I think it's decent)
 	- [thearq](https://github.com/statusunknown418/thearq) - B2B time tracker, data visualiser thingy
+ 	- [concard.app](https://concard.app) - B2C/B2B recent project linked to my company @StackkStudios
 	- [wait4it](https://github.com/statusunknown418/wait4it) - primarily look at the code bc Planetscale took down the DB and its not working anymore lol
 
 
